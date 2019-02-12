@@ -192,7 +192,8 @@ class Protocol:
         
         head = {} 
         head['Content-Type'] = 'application/json-rpc'
-        
+        return head
+    
     def _error(self, ET, code, *args):
         ''' Method _error class Protocol.
             ET   - key of EType dict.
