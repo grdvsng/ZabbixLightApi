@@ -1,8 +1,6 @@
 # pyZabbix
 ## Light module for use Get Method Zabbix API.
-<br />
 > If you need create simple script for your *__Zabbix__* server,it's can help you.
-<hr />
 ### example:
 
 ```python
